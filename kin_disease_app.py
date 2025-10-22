@@ -5,7 +5,7 @@ from PIL import Image
 import json
 
 # ===== FILE PATHS - Edit these paths to match your file locations =====
-MODEL_PATH = '/Users/anody/Downloads/vision transformer model_export/model_torchscript.pt'
+MODEL_PATH = 'model_torchscript.pt'
 METADATA_PATH = '/Users/anody/Downloads/vision transformer model_export/metadata.json'
 # =====================================================================
 
