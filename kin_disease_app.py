@@ -6,7 +6,7 @@ import json
 
 # ===== FILE PATHS - Edit these paths to match your file locations =====
 MODEL_PATH = 'model_torchscript.pt'
-METADATA_PATH = '/Users/anody/Downloads/vision transformer model_export/metadata.json'
+METADATA_PATH = 'metadata.json'
 # =====================================================================
 
 # Page configuration
